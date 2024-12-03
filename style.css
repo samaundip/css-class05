@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Parkinsans:wght@300..800&family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+
+*{ margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+
+ #work01{ background-color: khaki;
+          border: 2px solid black;
+          margin: 10px; 
+          padding: 5px;
+          box-sizing: border-box;
+          width: 100%;
+          height: 40%;
+        
+        }
+
+    h1 {  text-align:center;
+          margin: 10px 0;
+         
+         }
+h1,
+#p-tag01{     
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:700px;
+  font-style: normal;}
+
+  #p-tag01{text-align: justify; 
+    margin: 5px;}
+
+
+
+  #work02{ 
+    background-color: rgb(140, 240, 153);
+    border: 2px solid black;
+    margin: 10px; 
+    padding: 5px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 40%; }
+
+    #story01{ text-align: center; margin: 10px,0;}
+ 
+ #story01,
+ #p-tag02 { 
+        font-family: "Playwrite HR Lijeva", cursive;
+        font-optical-sizing: auto;
+        font-weight: 700px;
+        font-style: normal; }
+
+ #p-tag02{ text-align: justify;
+          margin: 5px, 0;}
+
+ #work03{ 
+ background-color: rgb(243, 247, 244);
+ border: 2px solid black;
+ margin: 10px; 
+ padding: 5px;
+ box-sizing: border-box;
+ width: 100%;
+ height: 40%; }
+        
+          
+         
+ #story02,
+ #p-tag03 {
+            font-family: "Parkinsans", serif;
+            font-optical-sizing: auto;
+            font-weight: 700px;
+            font-style: italic;
+          }
+
+        
+        
+
+
+  
